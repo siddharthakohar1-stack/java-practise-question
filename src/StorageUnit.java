@@ -1,5 +1,4 @@
 //Siddhartha Kohar - 116234
-// Abstract Class defining the base structure of all storage units
 abstract class StorageUnit {
     private String id;
     private double capacity; // in cubic meters
